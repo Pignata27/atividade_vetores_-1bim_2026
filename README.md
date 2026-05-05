@@ -5,7 +5,7 @@
 ### SENAI 1Bim 2026
 
 Atividade para complementar estudos feitos em sala de aula sobre vetores.
-Exemplo de código
+Exemplo de código:
 
 ``` c
 #include<stdio.h>
